@@ -1,0 +1,158 @@
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+
+  font-family: 'Bebas Neue', cursive;
+}
+section {
+  height: 550px;
+}
+.full-page-height {
+  height: 150px;
+}
+.full-page {
+  width: 100%;
+  margin-top: 100px;
+}
+.half-page {
+  width: 40%;
+  float: left;
+  padding: 5%;
+}
+.one-third-page {
+  width: 33%;
+  float: left;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: -20px;
+  margin-top: -20px;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 48px;
+  font-weight: bold;
+}
+h4 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  color: dimgray;
+}
+h5 {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+img {
+  width: 120%;
+}
+.right {
+  float: right;
+}
+.link-btn {
+  background-image: linear-gradient(
+    to right,
+    #ee0979 0%,
+    #ff6a00 51%,
+    #ee0979 100%
+  );
+  padding: 10px 35px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px rgb(136, 130, 130);
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.link-btn:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: justify;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+#text-align {
+  text-align: center;
+}
+#text-color {
+  color: #ff8367;
+}
+.one-section {
+  background-image: url('shapes/Group_33094_1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#text-format {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  font-size: 50px;
+  color: white;
+}
+#align-left {
+  float: left;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#align-right {
+  float: right;
+  margin-top: 120px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+}
+.btn-style {
+  border-radius: 10px;
+  padding: 20px 40px;
+  background-color: #ff8063;
+  color: white;
+  text-decoration: none;
+}
+.section-4 {
+  text-align: center;
+  width: 90%;
+}
+.section-4 p {
+  color: dimgray;
+  text-transform: uppercase;
+}
+.section-4 img {
+  margin-top: 5px;
+  height: 10%;
+  width: 5%;
+  padding-left: 2%;
+}
+.experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 20%;
+  background: white;
+  float: left;
+}
+.myDiv {
+  text-align: left;
+  margin-top: -150px;
+  width: 100%;
+}
+.myDiv2 {
+  width: 100%;
+  padding-bottom: 20%;
+}
+.myDiv2 img {
+  width: 10%;
+  height: 10%;
+  box-shadow: 10px 10px 40px gray;
+  float: left;
+  margin-left: 15px;
+}
