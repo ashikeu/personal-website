@@ -136,26 +136,3 @@ h3 {
   width: 5%;
   padding-left: 2%;
 }
-.experience {
-  box-shadow: 10px 10px 40px gray;
-  border-radius: 5px;
-  height: 20%;
-  background: white;
-  float: left;
-}
-.myDiv {
-  text-align: left;
-  margin-top: -150px;
-  width: 100%;
-}
-.myDiv2 {
-  width: 100%;
-  padding-bottom: 20%;
-}
-.myDiv2 img {
-  width: 10%;
-  height: 10%;
-  box-shadow: 10px 10px 40px gray;
-  float: left;
-  margin-left: 15px;
-}
